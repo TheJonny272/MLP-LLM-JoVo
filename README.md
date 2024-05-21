@@ -12,15 +12,16 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
 2) Datenbasis (Medium, Sprache, Quelle)
     Medium: Text
     Sprache: Englisch
-    Quelle: 1. Social Media Kommentare (z.B. von Youtube),
-            2. diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
-            3. diverse englische und deutsche Webseiten mit Witzen, aus denen dann nur der erste Satz kopiert wird (Ausgabe des LLMs kann auch mit originaler Pointe verglichen werden)
-            4. selbstgeschriebene Beispielsätze (eventuell auch Social Media Feeds)
+    Quelle:
+     1. Social Media Kommentare (z.B. von Youtube),
+     2. diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
+     3. diverse englische und deutsche Webseiten mit Witzen, aus denen dann nur der erste Satz kopiert wird (Ausgabe des LLMs kann auch mit originaler Pointe verglichen werden)
+     4. selbstgeschriebene Beispielsätze (eventuell auch Social Media Feeds)
 
-3) OpenLLM, das Sie nutzen wollen (muss nicht unbedingt das von Ihnen vorgestellte sein)
+4) OpenLLM, das Sie nutzen wollen (muss nicht unbedingt das von Ihnen vorgestellte sein)
     Mistral in einer Version mit 7,2 oder 46,7 Billionen Parametern von Hugging Face:
     https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2
     https://huggingface.co/mistralai/Mixtral-8x7B-Instruct-v0.1
 
-4) Experimentdesign - wie wollen Sie vorgehen und wie die Ergebnisse beurteilen? Testen Sie vielleicht, wie geläufige LLMs die Aufgaben erledigen?
+5) Experimentdesign - wie wollen Sie vorgehen und wie die Ergebnisse beurteilen? Testen Sie vielleicht, wie geläufige LLMs die Aufgaben erledigen?
     Alle originalen Daten, Inputdaten (mit Prompt und Blank), Outputdaten und die Korrektheit werden in einer Google Doc Tabelle festgehalten und später mit den anderen Modellen verglichen. Zusätzlich wird bei der 2. Aufgabe noch eine Unterteilung in englische und deutsche Iputs und Outputs erfolgen. Im Vergleich werden die Ergebnisse bzw. Ausgaben meines Modells Mistral mit denen von Llama und ChatGPT auf Richtigkeit / Logik hin verglichen und bewertet.
