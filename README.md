@@ -10,8 +10,10 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
     Zum Schluss werden die Ergebnisse im Hinblick auf ihre Richtigkeit analysiert und unter den Modellen / Sprachen miteinander verglichen.
 
 2) Datenbasis (Medium, Sprache, Quelle)
-    Medium: Text
-    Sprache: Englisch
+    Medium:
+     Text
+    Sprache:
+     Englisch
     Quelle:
      1. Social Media Kommentare (z.B. von Youtube),
      2. diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
