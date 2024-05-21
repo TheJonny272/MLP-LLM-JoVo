@@ -11,13 +11,13 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
 
 2) Datenbasis (Medium, Sprache, Quelle)
 
-   I. Medium:
+   Medium:
       Text
    
-   II. Sprache:
+   Sprache:
       Englisch
    
-   III. Quelle:
+   Quelle:
      1. Social Media Kommentare (z.B. von Youtube),
      2. diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
      3. diverse englische und deutsche Webseiten mit Witzen, aus denen dann nur der erste Satz kopiert wird (Ausgabe des LLMs kann auch mit originaler Pointe verglichen werden)
