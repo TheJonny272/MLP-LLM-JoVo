@@ -17,7 +17,7 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
    Sprache:
       Englisch
    
-   Quelle:
+   Quellen:
      1. Social Media Kommentare (z.B. von Youtube),
      2. diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
      3. diverse englische und deutsche Webseiten mit Witzen, aus denen dann nur der erste Satz kopiert wird (Ausgabe des LLMs kann auch mit originaler Pointe verglichen werden)
