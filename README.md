@@ -12,10 +12,10 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
 2) Datenbasis (Medium, Sprache, Quelle)
     Medium: Text
     Sprache: Englisch
-    Quelle: 1) Social Media Kommentare (z.B. von Youtube),
-            2) diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
-            3) diverse englische und deutsche Webseiten mit Witzen, aus denen dann nur der erste Satz kopiert wird (Ausgabe des LLMs kann auch mit originaler Pointe verglichen werden)
-            4) selbstgeschriebene Beispielsätze (eventuell auch Social Media Feeds)
+    Quelle: 1. Social Media Kommentare (z.B. von Youtube),
+            2. diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
+            3. diverse englische und deutsche Webseiten mit Witzen, aus denen dann nur der erste Satz kopiert wird (Ausgabe des LLMs kann auch mit originaler Pointe verglichen werden)
+            4. selbstgeschriebene Beispielsätze (eventuell auch Social Media Feeds)
 
 3) OpenLLM, das Sie nutzen wollen (muss nicht unbedingt das von Ihnen vorgestellte sein)
     Mistral in einer Version mit 7,2 oder 46,7 Billionen Parametern von Hugging Face:
