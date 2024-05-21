@@ -10,6 +10,7 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
     Zum Schluss werden die Ergebnisse im Hinblick auf ihre Richtigkeit analysiert und unter den Modellen / Sprachen miteinander verglichen.
 
 2) Datenbasis (Medium, Sprache, Quelle)
+
     Medium:
      1. Text
     Sprache:
