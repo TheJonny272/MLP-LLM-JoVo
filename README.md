@@ -5,6 +5,7 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
   Mit dem Open LLM Mistral sollen vier verschiedene Satzvervollständigungsszenarien analysiert und mit einem anderen Open LLM (Llama) sowie einem Closed LLM (ChatGPT) verglichen werden. Hierbei teile ich die vierteilige Aufgabenstellung       mit meiner Kommilitonin Norma Katrin Wilcken. Modell und Datensatz werden sich jedoch unterscheiden. Die vier Aufgaben für das LLM lauten:
       1. Here is part of a comment. Complete the last sentence: ...
       2. Complete the second verse in a way that it rhymes with the first verse:... / Vervollständige den zweiten Vers so, dass er sich auf den ersten Vers reimt:...  [Hier wird sowohl mit englischen als auch deutschen Eingabedaten gearbeitet und diese im nachhinein verglichen]
+      
       [3. Complete the input to create a joke with a punchline:...]
       [4. Rewrite the following sentence in a formal / colloquial way:...]
 
@@ -21,6 +22,7 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
    Quellen:
      1. Social Media Kommentare (z.B. von Youtube),
      2. diverse englische und deutsche Webseiten mit Reimen, aus denen dann nur ein Vers kopiert wird (Ausgabe des LLMs kann auch mit originalem Anschlussvers verglichen werden)
+     
      [3. diverse englische und deutsche Webseiten mit Witzen, aus denen dann nur der erste Satz kopiert wird (Ausgabe des LLMs kann auch mit originaler Pointe verglichen werden)]
      [4. selbstgeschriebene Beispielsätze (eventuell auch Social Media Feeds)]
 
