@@ -6,3 +6,6 @@ Die Gedichte stammen von diversen englischen und deutschen Webseiten, teils von 
   https://poets.org/poem/haunted-houses
   https://www.gedichte7.de/fruehling-ringelnatz.html
   https://www.gedichte7.de/ich-denke-dein.html
+
+Zum Scrapen des Youtube-Videos habe ich folgenden Scraper benutzt: https://www.browse.ai
+Das Processing in Mistral erfolgte über die Prompt-Eingabe im Browser, ebenso wie bei ChatGPT 3.5
