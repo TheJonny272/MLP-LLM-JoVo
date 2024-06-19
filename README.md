@@ -7,6 +7,7 @@ Mistral wird in vier verschiedenen Szenarien des MLP/NLP verwendet und mit ander
       2. Complete the second verse in a way that it rhymes with the first verse:... / Vervollständige den zweiten Vers so, dass er sich auf den ersten Vers reimt:...  [Hier wird sowohl mit englischen als auch deutschen Eingabedaten gearbeitet und diese im nachhinein verglichen]
       [3. Complete the input to create a joke with a punchline:...]
       [4. Rewrite the following sentence in a formal / colloquial way:...]
+
   Zum Schluss werden die Ergebnisse im Hinblick auf ihre Richtigkeit analysiert und unter den Modellen / Sprachen miteinander verglichen.
 
 2) Datenbasis (Medium, Sprache, Quelle)
